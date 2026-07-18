@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sumanth Venktachala</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=SUMANTH%20VENKTACHALA&fontSize=40&fontColor=00FF00&fontAlignY=50&desc=Cybersecurity%20%7C%20VAPT%20%7C%20Pentesting&descAlignY=75&descColor=00FF00" width="100%" />
+</p>
+
 <h3 align="center">Cybersecurity MSc Student | VAPT Analyst | Penetration Tester</h3>
 
 <p align="center">
@@ -7,21 +10,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/-Wazuh-1BA0D7?style=for-the-badge&logo=wazuh&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=fff" />
-</p>
-
 ## 🎯 About Me
 
 - 🎓 MSc Cybersecurity student (First-Class Honours) — Technology University of the Shannon
-- 🔐 Hands-on VAPT experience across web apps & networks — identified 45+ vulnerabilities (SQLi, Broken Access Control, XSS) using Burp Suite, OWASP ZAP, Nmap & Metasploit
-- 🛠️ Built a full DevSecOps pipeline with OWASP Top 10 coverage and automated vulnerability triage
-- 🏆 Competed at ZeroDays CTF 2026, Dublin — ranked 94/147 teams (binary exploitation, forensics, steganography)
+- 🔐 Hands-on VAPT experience across web apps & networks — identified 45+ vulnerabilities (SQLi, Broken Access Control, XSS)
+- 🏆 Competed at ZeroDays CTF 2026, Dublin — ranked 94/147 teams
 - 📍 Based in Dublin, Ireland
 
 ## 📜 Certifications
@@ -32,17 +25,22 @@
 - ✅ AWS Certified Cloud Practitioner
 - ✅ Google Cybersecurity Professional
 - ✅ Cisco Ethical Hacking
-- ✅ Linux Fundamentals & Python Scripting
 
 ## 🛠️ Arsenal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Burp%20Suite-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Metasploit-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nmap-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gobuster-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/-Wazuh-1BA0D7?style=for-the-badge&logo=wazuh&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Nmap-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-OWASP%20ZAP-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Gobuster-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff" />
 </p>
 
 ## 📊 GitHub Stats
@@ -59,6 +57,10 @@
 ## 🔗 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sumanthvenktachala"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
+  <a href="https://www.linkedin.com/in/sumanthvenktachala">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/A00336182">
+    <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  </a>
 </p>
