@@ -18,21 +18,21 @@
 
 ## 🎯 About Me
 
-- 🎓 MSc Cybersecurity student (First-Class Honours) — Technology University of the Shannon [file:41]
-- 🔐 Hands-on VAPT experience across web apps & networks — identified 45+ vulnerabilities (SQLi, Broken Access Control, XSS) using Burp Suite, OWASP ZAP, Nmap & Metasploit [file:41]
-- 🛠️ Built a full DevSecOps pipeline with OWASP Top 10 coverage and automated vulnerability triage [file:41]
-- 🏆 Competed at ZeroDays CTF 2026, Dublin — ranked 94/147 teams (binary exploitation, forensics, steganography) [file:41]
+- 🎓 MSc Cybersecurity student (First-Class Honours) — Technology University of the Shannon
+- 🔐 Hands-on VAPT experience across web apps & networks — identified 45+ vulnerabilities (SQLi, Broken Access Control, XSS) using Burp Suite, OWASP ZAP, Nmap & Metasploit
+- 🛠️ Built a full DevSecOps pipeline with OWASP Top 10 coverage and automated vulnerability triage
+- 🏆 Competed at ZeroDays CTF 2026, Dublin — ranked 94/147 teams (binary exploitation, forensics, steganography)
 - 📍 Based in Dublin, Ireland
 
 ## 📜 Certifications
 
-- ✅ CompTIA Security+ (SY0-701) [file:41]
-- ✅ CEH V13 — Training Completed [file:41]
-- 🔄 THM PT1 — In Progress [file:41]
-- ✅ AWS Certified Cloud Practitioner [file:41]
-- ✅ Google Cybersecurity Professional [file:41]
-- ✅ Cisco Ethical Hacking [file:41]
-- ✅ Linux Fundamentals & Python Scripting [file:41]
+- ✅ CompTIA Security+ (SY0-701)
+- ✅ CEH V13 — Training Completed
+- 🔄 THM PT1 — In Progress
+- ✅ AWS Certified Cloud Practitioner
+- ✅ Google Cybersecurity Professional
+- ✅ Cisco Ethical Hacking
+- ✅ Linux Fundamentals & Python Scripting
 
 ## 🛠️ Arsenal
 
